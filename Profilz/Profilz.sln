@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profilz", "Profilz\Profilz.csproj", "{465043B5-E5F6-487F-86D5-353A3A0B4093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profilz.Tests", "Profilz.Tests\Profilz.Tests.csproj", "{EDBE3B9B-7CF3-4CDC-B96C-C1E38463EC62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465043B5-E5F6-487F-86D5-353A3A0B4093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465043B5-E5F6-487F-86D5-353A3A0B4093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465043B5-E5F6-487F-86D5-353A3A0B4093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465043B5-E5F6-487F-86D5-353A3A0B4093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBE3B9B-7CF3-4CDC-B96C-C1E38463EC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBE3B9B-7CF3-4CDC-B96C-C1E38463EC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBE3B9B-7CF3-4CDC-B96C-C1E38463EC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBE3B9B-7CF3-4CDC-B96C-C1E38463EC62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A69F3A5-851E-4BD6-89C9-064A52390CBF}
+	EndGlobalSection
+EndGlobal
